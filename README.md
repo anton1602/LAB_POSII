@@ -1,4 +1,6 @@
 # LAB_POSII
+This project can predict heart disease using https://www.kaggle.com/ronitf/heart-disease-uci dataset
+
 Just build and run both server and client container.
 Build mongoDB and run.
 Then run server and client with any localport {localport}:5000/tcp at container.
